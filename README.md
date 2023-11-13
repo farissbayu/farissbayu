@@ -1,9 +1,10 @@
-### Hi there 👋
+<h1 align = "center">Hi there 👋</h1>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
+</div>
 
 <!--
-**farissbayu/farissbayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
