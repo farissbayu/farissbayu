@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farissbayu&show_icons=true&locale=en&layout=compact" alt="farissbayu" /></p>
 
-![Codewars](https://github.r2v.ch/codewars?user=fasbyy&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+
